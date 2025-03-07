@@ -8,6 +8,7 @@ sentence_transformers
 langchain_huggingface
 langchain_chroma
 langchain-openai
+langchain_groq
 openai
 pypdf
 pymupdf
@@ -17,3 +18,4 @@ wikipedia
 chromadb
 faiss-cpu
 duckdb
+streamlit
